@@ -1,4 +1,4 @@
-package DesenvolvimentoNuvem;
+
 public class Cliente{
 	
 	String nome;
